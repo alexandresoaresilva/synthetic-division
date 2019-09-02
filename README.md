@@ -1,6 +1,6 @@
 # synthetic-division
 
-synthetic division implemented with Newton's method. 
+Polynomial solver that uses synthetic division to find the polynomial's roots.
  
 This is an extended version of an engineering analysis assingment, which before only solved polynomials with integer and rational roots. 
 
