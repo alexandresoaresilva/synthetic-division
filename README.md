@@ -1,4 +1,4 @@
-# synthetic-division
+# poly-roots
 
 cute polynomial solver that uses synthetic division to find the polynomial's roots. Synthetic division was implemented with Newton's method.
  
